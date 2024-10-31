@@ -67,6 +67,7 @@ alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
 alias search='yazi'
+alias usage='python systemusage.py'
 
 # Shell integrations
 eval "$(pyenv init --path)"
